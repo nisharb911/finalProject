@@ -1,0 +1,35 @@
+*{
+    padding: 10;
+    margin: 10;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+body {
+    background-color: #AEC6CF;
+    color: white;
+}
+.div1 {
+     /* The image used */
+     background-image: url("images/name.jpg");
+
+     /* Full height */
+     height: 600px;
+     width: 1350px;
+ 
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     margin-top: 30px;
+}
+.div3 {
+    width: 1350px;
+    height: 600;
+    background-image: url(images/bg1.jpg);
+    /* border-top-left-radius: 150px; */
+    background-color: beige;
+}
